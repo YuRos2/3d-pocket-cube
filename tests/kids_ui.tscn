@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://tests/kids_ui.gd" id="1_kids_ui"]
+
+[node name="KidsUI" type="Node"]
+script = ExtResource("1_kids_ui")
